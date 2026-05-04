@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and Models
+data/raw/
+data/processed/
+data/cache/*.npy
+models/checkpoints/
+*.pth
+*.pt
+
+# OS files
+.DS_Store
+
+# Environments
+.venv/
+venv/
+env/

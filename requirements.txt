@@ -1,0 +1,14 @@
+torch>=2.0.0
+torchvision
+transformers
+accelerate
+bitsandbytes
+opencv-python
+pillow
+numpy
+scikit-learn
+tqdm
+faiss-cpu
+flash-attn>=2.0.0
+PyYAML
+pytest
